@@ -1,0 +1,2 @@
+# LiverTumorSegmentation
+在LITS2017和3DIRCADB数据集上做肝脏肿瘤分割的项目
